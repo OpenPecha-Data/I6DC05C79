@@ -1,0 +1,99 @@
+id: a71dfb2980eb4ca88308efc3bf7ca3a4
+annotation_type: Language
+revision: '00001'
+annotations:
+  6324419a2cd146b2b2e8a515953f6754:
+    span:
+      start: 36
+      end: 154
+    language: en
+  2c919aab581c44e69e054c1da834034d:
+    span:
+      start: 202
+      end: 1389
+    language: en
+  eaf0477187564d5e9a8bd9dc124c7978:
+    span:
+      start: 31278
+      end: 31416
+    language: en
+  355a72de69ce452f804c09d55b7b2416:
+    span:
+      start: 88344
+      end: 88465
+    language: en
+  d0a9e6f0c8924035bacc1b2fbfc9c7a8:
+    span:
+      start: 98144
+      end: 98275
+    language: en
+  4b5f9333cbaf4493af028b1f275e7e2f:
+    span:
+      start: 102034
+      end: 102156
+    language: en
+  da24e0da4bdb4a2cb5f3c6caf3191205:
+    span:
+      start: 113761
+      end: 113884
+    language: en
+  51b7df1499934631962d685c56bb853f:
+    span:
+      start: 153798
+      end: 153824
+    language: en
+  aedc5945a1924ca3bac5659cb748bd9a:
+    span:
+      start: 157043
+      end: 157207
+    language: en
+  0011e01fcb944ec7b67f50e4def67917:
+    span:
+      start: 186948
+      end: 187130
+    language: en
+  4356edd928514045b04f10a492501d72:
+    span:
+      start: 214855
+      end: 215034
+    language: en
+  4f10c97ef78649209e5d313e4079c93e:
+    span:
+      start: 237989
+      end: 238183
+    language: en
+  5ddcafee568749f7924f91f17d04c6f1:
+    span:
+      start: 279735
+      end: 279922
+    language: en
+  4be114ca95ac46e79e7b902a2f692301:
+    span:
+      start: 305131
+      end: 305318
+    language: en
+  a44c413b06fe4f428fb19bcf04c06edd:
+    span:
+      start: 329128
+      end: 329334
+    language: en
+  49db7da2cdb54d09a5934073b9ba3ebb:
+    span:
+      start: 381469
+      end: 381652
+    language: en
+  a46e61125592480d8e6e3f77dc64ebaa:
+    span:
+      start: 401956
+      end: 402142
+    language: en
+  bdb93e38c0ce419cb859f92d935fcd3f:
+    span:
+      start: 425342
+      end: 425528
+    language: en
+  45d6a40cab8e429bbab2b20f9a6d84b5:
+    span:
+      start: 454985
+      end: 455166
+    language: en
